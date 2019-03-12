@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".U1">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="427dp"
+        android:layout_height="44dp"
+        android:text="Dirección: Carretera a Vigia Chico Kilómetro 1.5, Centro, 77200 Felipe Carrillo Puerto, Q.R."
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="83dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="120dp"
+        android:layout_height="20dp"
+        android:text="01 983 834 0051"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="141dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="189dp"
+        android:layout_height="151dp"
+        android:text="Carreras que ofrecemos:  - Ingeniería Industrial - Ingeniería en Administración - Ingeniería en Gestión Empresarial - Ingeniería en Industrias Alimentarias - Ingeniería en Sistemas Computacionales"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="184dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sitio web: http://itscarrillopuerto.edu.mx/v4.0/"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="377dp" />
+</RelativeLayout>
